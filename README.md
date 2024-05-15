@@ -1,1 +1,2 @@
 # AI-Air-Canvas
+This project's scope extends beyond the conventional understanding of virtual paint systems by incorporating real-time hand and finger tracking. By utilizing advanced algorithms, users can effortlessly draw on a virtual canvas simply by gesturing towards a camera. The interactive nature of the system provides an accessible and intuitive outlet for creative expression, making it particularly valuable for individuals with disabilities.
